@@ -1,0 +1,4 @@
+
+2022/06/15
+以下のURLの「ファイルの配置」まで完了
+Yolo構築 https://rightcode.co.jp/blog/information-technology/learn-yolov3-image-windows10-object-detection
